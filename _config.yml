@@ -214,7 +214,7 @@ kramdown:
 collections:
   teaching:
     output: false
-    permalink: /:collection/:path/
+    permalink:
   publications:
     output: false
     permalink: /:collection/:path/
